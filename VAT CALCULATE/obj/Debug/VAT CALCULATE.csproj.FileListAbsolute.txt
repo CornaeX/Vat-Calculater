@@ -1,0 +1,15 @@
+D:\!IN DEV\VAT CALCULATE\bin\Debug\VAT CALCULATE.exe.config
+D:\!IN DEV\VAT CALCULATE\bin\Debug\VAT CALCULATE.exe
+D:\!IN DEV\VAT CALCULATE\bin\Debug\VAT CALCULATE.pdb
+D:\!IN DEV\VAT CALCULATE\obj\Debug\VAT CALCULATE.csproj.AssemblyReference.cache
+D:\!IN DEV\VAT CALCULATE\obj\Debug\MainWindow.g.cs
+D:\!IN DEV\VAT CALCULATE\obj\Debug\App.g.cs
+D:\!IN DEV\VAT CALCULATE\obj\Debug\VAT CALCULATE_MarkupCompile.cache
+D:\!IN DEV\VAT CALCULATE\obj\Debug\VAT CALCULATE_MarkupCompile.lref
+D:\!IN DEV\VAT CALCULATE\obj\Debug\MainWindow.baml
+D:\!IN DEV\VAT CALCULATE\obj\Debug\VAT CALCULATE.g.resources
+D:\!IN DEV\VAT CALCULATE\obj\Debug\VAT_CALCULATE.Properties.Resources.resources
+D:\!IN DEV\VAT CALCULATE\obj\Debug\VAT CALCULATE.csproj.GenerateResource.cache
+D:\!IN DEV\VAT CALCULATE\obj\Debug\VAT CALCULATE.csproj.CoreCompileInputs.cache
+D:\!IN DEV\VAT CALCULATE\obj\Debug\VAT CALCULATE.exe
+D:\!IN DEV\VAT CALCULATE\obj\Debug\VAT CALCULATE.pdb
